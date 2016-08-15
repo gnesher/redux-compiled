@@ -1,0 +1,21 @@
+{
+  "name": "redux-compiled",
+  "homepage": "https://github.com/gnesher/redux-compiled",
+  "authors": [
+    "Guy Nesher"
+  ],
+  "description": "a UMD build of redux (v3.5.2) needed for older build systems that still use Bower",
+  "main": "redux.js",
+  "keywords": [
+    "redux"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
