@@ -5,7 +5,7 @@
     "Guy Nesher"
   ],
   "description": "a UMD build of redux (v3.5.2) needed for older build systems that still use Bower",
-  "main": "redux.js",
+  "main": "dist/redux.js",
   "keywords": [
     "redux"
   ],
